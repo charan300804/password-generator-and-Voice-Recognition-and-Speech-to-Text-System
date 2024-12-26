@@ -41,12 +41,17 @@ After each speech recognition cycle, the program will prompt you to press Enter 
 
 ## Example Output
 Modules are installed successfully!
+
 abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~
+
 Enter the length of the password: 12
+
 Your password is: a1!b2@c3#d4$e5
+
 Adjusting for ambient noise... Please wait.
 Listening... Please speak now.
 Recognizing speech...
+
 You said: Hello, how are you?
 Log File
 The program logs important events and errors to speech_recognition.log. This includes information about the recognition process and any encountered errors.
